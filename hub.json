@@ -1,33 +1,33 @@
 {
   "type": "trackhub",
-  "name": "H3K27me3 Epigenetic Hub",
-  "description": "Tracks from control and treated cardiomyocytes",
+  "name": "H3K27me3 Hub",
+  "description": "Rat heart H3K27me3 ChIP-seq",
   "species": "rn6",
   "tracks": [
     {
       "type": "bigwig",
-      "name": "Control Rep 1",
+      "name": "Ctrl 1",
       "url": "https://drive.google.com/uc?export=download&id=1Fc_aoRscIPDtxks9xQEyqEsbaRcM2_YQ"
     },
     {
       "type": "bigwig",
-      "name": "Control Rep 2",
-      "url": "https://drive.google.com/uc?export=download&id=1G-1RQ-bzVl1tzA9EfG5LpVckys9T__g2"
+      "name": "Ctrl 2",
+      "url": "https://drive.google.com/uc?export=download&id=1GVgAYckWoTDh3Tr3lFMp9yUXRUb0pghX"
     },
     {
       "type": "bigwig",
-      "name": "Treated Rep 1",
-      "url": "https://drive.google.com/uc?export=download&id=1-QZ6ygSsWmSbzYY7imj5FlGhccNIJf_L"
+      "name": "α-KG 1",
+      "url": "https://drive.google.com/uc?export=download&id=1yBr4PbrRJThAun9OfRpJgIYKUzExDKNT"
     },
     {
       "type": "bigwig",
-      "name": "Treated Rep 2",
-      "url": "https://drive.google.com/uc?export=download&id=1wAp3ldp1qLID4mC9U4188jFxznU7elyZ"
+      "name": "α-KG 2",
+      "url": "https://drive.google.com/uc?export=download&id=1raIQdAFe4ZJ2Ldu9hf9kZn4IoiR5hM07"
     },
     {
       "type": "bigwig",
-      "name": "Input Control",
-      "url": "https://drive.google.com/uc?export=download&id=1u3BkHETJTUx8bIH1U5Ao0jPnSV8x96Uo"
+      "name": "Input",
+      "url": "https://drive.google.com/uc?export=download&id=1wCfx3KStK_2_Q8GrV-ksRRUZ0r0C1MUS"
     }
   ]
 }
